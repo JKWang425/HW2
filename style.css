@@ -32,7 +32,7 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 5vh;
+    margin-top: 10vh;
 }
 
 .login-container {
@@ -119,10 +119,11 @@ body {
     text-align: center;
 }
 
-.qr-code-box svg {
+.qr-image {
     display: block;
     width: 100%;
     height: auto;
+    border-radius: 12px;
 }
 
 .footer {
